@@ -29,7 +29,9 @@
             </ExperimentalAcrylicBorder.Material>
         </ExperimentalAcrylicBorder>
         
-        <Button Content="Buy Music"/>
+        <Panel Margin="40">
+            <Button Content="Buy Music" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        </Panel>
     </Panel>
 
 </Window>
